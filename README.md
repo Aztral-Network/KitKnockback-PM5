@@ -1,7 +1,7 @@
 # KitKnockback
 
 ### Description
-This is a two-in-one PocketMine/Genysis plugin that allows players to add kits to their server, while also being able to change the knockback according to the kit the player has. This plugin is only available for Minecraft Versions 0.16 and 0.15.
+This is a two-in-one PocketMine plugin that allows players to add kits to their server, while also being able to change the knockback according to the kit the player has. Updated to PM5
 
 ## Table of Contents
 [TOC]
