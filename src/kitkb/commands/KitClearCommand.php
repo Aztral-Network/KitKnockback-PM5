@@ -38,7 +38,7 @@ class KitClearCommand extends Command
             KitKbListener::removePlayerKit($sender->getName());
             KitKbListener::removePlayerKb($sender->getName());
             KitKbListener::removePlayerLastAttack($sender->getName());
-            $sender->sendMessage(TextFormat::GREEN . "§4HSZ §7: §aKit y inventario limpiados correctamente.");
+            $sender->sendMessage(TextFormat::GREEN . "§aKit and inventory cleared successfully!");
 
         } else {
             $sender->sendMessage(KitKb::getConsoleMsg());
