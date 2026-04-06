@@ -10,7 +10,6 @@ This is a two-in-one PocketMine/Genysis plugin that allows players to add kits t
 
 - Create kits based on the items found within a players inventory.
 - Edit the knockback of the player based on a kit that each player has.
-- [Advanced1vs1](http://https://github.com/jkorn2324/Advanced1vs1 "Advanced1vs1") Compatibility.
 
 ### Commands
 
@@ -32,9 +31,5 @@ This is a two-in-one PocketMine/Genysis plugin that allows players to add kits t
 	- `/kb-speed <name> <value>` - The command that allows players to edit the knockback speed of the player (how fast the delay is between each hit).
 	- `<name>` - The parameter that determines which kit to edit the knockback speed.
 	- `<value>` - The parameter that determines the value of the knockback speed the kit should have. The default knockback speed value is 10.
+ `/kb-y <name> <value>` - Clears the player's kit and removes the KB state
 
-### Permissions
-- `permission.kit` - Allows players to create and delete kits. By default only operators can use commands that contain this permission.
-- `permission.kit.list` - Allows players to view the list of the kits. By default all players can use commands with this permission.
-- `permission.kit.kb` - Allows players to edit the knockback of the kits. By default only operators can use this command.
-- `permission.kit.kbinfo` - Allows players to view the knockback information of a kit. By default only operators can use this command.
