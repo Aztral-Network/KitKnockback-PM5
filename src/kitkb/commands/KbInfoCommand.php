@@ -39,7 +39,7 @@ class KbInfoCommand extends Command
             $kitManager = KitKb::getKitHandler();
             if(!$kitManager->isKit($kitName))
             {
-                $sender->sendMessage(TextFormat::RED . "Este kit no existe!");
+                $sender->sendMessage(TextFormat::RED . "This kit doesn't exist!!");
                 return true;
             }
 
