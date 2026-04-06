@@ -1,5 +1,6 @@
 # KitKnockback
-
+### WARNING
+This plugin has been updated by AI and may contain bugs and inconsistencies. Dont make issues, fix it by yourself ;-;
 ### Description
 This is a two-in-one PocketMine plugin that allows players to add kits to their server, while also being able to change the knockback according to the kit the player has. Updated to PM5
 
