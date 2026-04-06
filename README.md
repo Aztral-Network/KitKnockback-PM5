@@ -31,5 +31,5 @@ This is a two-in-one PocketMine/Genysis plugin that allows players to add kits t
 	- `/kb-speed <name> <value>` - The command that allows players to edit the knockback speed of the player (how fast the delay is between each hit).
 	- `<name>` - The parameter that determines which kit to edit the knockback speed.
 	- `<value>` - The parameter that determines the value of the knockback speed the kit should have. The default knockback speed value is 10.
- `/kb-y <name> <value>` - Clears the player's kit and removes the KB state
+ `/clear-kit` - Clears the player's kit and removes the KB state
 
